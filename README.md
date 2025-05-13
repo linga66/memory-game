@@ -1,5 +1,5 @@
 # Memory-Game
-A memory game with React
+A memory game with ReactJS
 
 <p>
 
